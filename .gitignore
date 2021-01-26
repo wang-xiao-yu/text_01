@@ -1,0 +1,4 @@
+#忽略 index.js的文件
+index.js
+#忽略text目录下的所有文件
+text/
